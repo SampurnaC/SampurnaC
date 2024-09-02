@@ -20,7 +20,7 @@
 <a href="https://dev.to/sampurna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="sampurna" height="30" width="40" /></a>
 <a href="https://twitter.com/saam_codes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="saam_codes" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sampurna-chapagain-282331140" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sampurna-chapagain-282331140" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/indentcode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="indentcode" height="30" width="40" /></a>
+<a href="https://www.youtube.com/indentcode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="indentcode" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
